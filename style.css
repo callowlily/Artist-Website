@@ -149,3 +149,23 @@ iframe {
 .bio p {
     margin-bottom: 1.5rem;
 }
+.project-list {
+    display: flex;
+    flex-direction: column;
+    gap: 50px;
+}
+
+.project-link {
+    display: block;
+}
+
+.project-title {
+    font-size: 1.5rem;
+    font-weight: normal;
+    margin-bottom: 0.25rem;
+}
+
+.year {
+    font-size: 0.95rem;
+    color: #666;
+}
