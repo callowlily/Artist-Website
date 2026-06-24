@@ -29,10 +29,10 @@ header {
 }
 
 h1 {
-    font-size: 5rem;
+    font-size: 4rem;
     font-weight: normal;
-    letter-spacing: 0.02em;
     margin-bottom: 20px;
+}
 }
 
 nav {
