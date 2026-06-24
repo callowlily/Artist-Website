@@ -108,3 +108,16 @@ iframe {
     color: #666;
     margin: 0 60px 60px 60px;
 }
+.project-title {
+    font-size: 1.5rem;
+    font-weight: normal;
+    margin-bottom: 0.2rem;
+}
+
+.project-link {
+    display: block;
+}
+
+.project-link p {
+    margin: 0;
+}
