@@ -140,13 +140,6 @@ iframe {
     font-size: 1rem;
     color: #666;
 }
-.about-photo {
-    width: 220px;
-    max-width: 100%;
-    display: block;
-    margin: 0 auto 60px auto;
-}
-}
 
 .bio {
     max-width: 750px;
