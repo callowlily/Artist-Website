@@ -33,7 +33,6 @@ h1 {
     font-weight: normal;
     margin-bottom: 20px;
 }
-}
 
 nav {
     display: flex;
@@ -105,5 +104,6 @@ iframe {
 }
 .project-info {
     font-style: italic;
-    margin-bottom: 40px;
+    color: #666;
+    margin: 0 60px 60px 60px;
 }
