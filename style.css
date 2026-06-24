@@ -121,4 +121,22 @@ iframe {
 .project-link p {
     margin: 0;
 }
+.project-list div {
+    margin-bottom: 60px;
+}
 
+.project-list a {
+    text-decoration: none;
+    color: inherit;
+}
+
+.project-list h2 {
+    font-size: 2rem;
+    font-weight: normal;
+    margin-bottom: 5px;
+}
+
+.year {
+    font-size: 1rem;
+    color: #666;
+}
