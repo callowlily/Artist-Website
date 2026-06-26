@@ -155,3 +155,8 @@ iframe {
     font-size: 0.95rem;
     color: #666;
 }
+.photo-credit {
+    font-size: 0.8rem;
+    color: #666;
+    margin-top: 12px;
+}
