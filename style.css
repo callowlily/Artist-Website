@@ -160,3 +160,19 @@ iframe {
     color: #666;
     margin-top: 12px;
 }
+.project-info {
+    font-style: italic;
+    color: #666;
+    margin-bottom: 1rem;
+    line-height: 1.6;
+}
+
+.photo-credit {
+    font-size: 0.9rem;
+    color: #666;
+    margin-bottom: 3rem;
+}
+
+.project-grid {
+    margin-top: 2rem;
+}
