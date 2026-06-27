@@ -68,27 +68,26 @@ section {
 
 /* ---------- Work Page ---------- */
 
+.project-link {
+    display: block;
+}
+
 .project-list {
     display: flex;
     flex-direction: column;
-    gap: 25px;
-}
-
-.project-link {
-    display: block;
+    gap: 28px;
 }
 
 .project-title {
     font-size: 1.25rem;
     font-weight: normal;
-    margin-bottom: 0.3rem;
+    margin-bottom: 0.1rem;
 }
 
 .year {
     font-size: 0.95rem;
     color: #666;
 }
-
 /* ---------- Project Pages ---------- */
 
 .project-note {
